@@ -50,6 +50,7 @@ dalvik.vm.dexopt.secondary=true
 debug.hwui.skia_atrace_enabled=false
 
 # Display
+debug.performance.tuning=1
 debug.sf.disable_backpressure=1
 debug.sf.enable_hwc_vds=1
 debug.sf.latch_unsignaled=1
