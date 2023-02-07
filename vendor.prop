@@ -119,6 +119,7 @@ dalvik.vm.dex2oat64.enabled=true
 # Display
 debug.sf.hw=0
 debug.egl.hw=0
+debug.sf.enable_transaction_tracing=false
 persist.sys.sf.color_saturation=1.0
 debug.sdm.support_writeback=0
 ro.hardware.egl=adreno
