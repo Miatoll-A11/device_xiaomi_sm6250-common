@@ -366,6 +366,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     android.hardware.thermal@2.0-service.qti
 
+# TimeKeep
+PRODUCT_PACKAGES += \
+    TimeKeep
+
 # Tethering
 PRODUCT_PACKAGES += \
     TetheringConfigOverlay
