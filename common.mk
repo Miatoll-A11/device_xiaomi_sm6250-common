@@ -121,7 +121,6 @@ PRODUCT_PACKAGES += \
     hwcomposer.atoll \
     libdisplayconfig.qti \
     libqdMetaData \
-    libtinyxml \
     memtrack.atoll
 
 PRODUCT_PACKAGES += \
